@@ -192,7 +192,7 @@ async def start(m: UpdateNewMessage):
             [
                 Button.url("Update Channel", "https://t.me/Redterabot"),
                 Button.url(
-                    "Repo", "https://github.com"
+                    "Owner", "https://t.me/teamredinfinity"
                 ),
             ]
         ],
@@ -255,7 +255,7 @@ Available commands:
             [
                 Button.url("Updates", "https://t.me/@edterabot"),
                 Button.url(
-                    "Repo", "https://github.com/"
+                    "Owner", "https://t.me/teamredinfinity"
                 ),
             ]
         ],
